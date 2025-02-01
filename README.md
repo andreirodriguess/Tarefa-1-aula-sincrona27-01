@@ -8,7 +8,7 @@ O programa funciona da seguinte maneira:
 - Quando o botão **A** é pressionado, o valor exibido na matriz de LEDs é incrementado em 1 unidade.  
 - Quando o botão **B** é pressionado, o valor exibido na matriz de LEDs é decrementado em 1 unidade.  
 
-##Aluno:
+## Aluno:
 Andrei Luiz da Silva Rodrigues
-##Matrícula
+## Matrícula
 tic370100444
