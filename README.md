@@ -12,3 +12,5 @@ O programa funciona da seguinte maneira:
 Andrei Luiz da Silva Rodrigues
 ## Matrícula
 tic370100444
+## Link do video de apresentação:
+https://youtu.be/LXcXkHgFFQ4?si=XClw0d6LQ0UJA6Iq
